@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ht",
+				"html"
+			],
+			[
+				"s",
+				"secret_number"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"cen",
+				"censoredWord"
+			],
+			[
+				"c",
+				"censoredWord"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/czekalsj/Downloads/pollutantmean.R",
+		"/Users/czekalsj/Downloads/nickvia_2015-04-13/work.py",
+		"/Volumes/s3.amazonaws.com/datacollector-live/sample/destination/sample/hourly/2015/04/17/18/sample.1.0.1.442.1429293600000.gz",
+		"/Volumes/s3.amazonaws.com/datacollector-live/sample/destination/sample/hourly/2015/04/17/18/sample.2.1.4.546.1429293600000.gz",
+		"/Users/czekalsj/Desktop/caption_parsing.py",
+		"/Users/czekalsj/Documents/Python/google-python-exercises/basic/wordcount.py",
+		"/Users/czekalsj/Documents/Python/google-python-exercises/babynames/babynames.py",
+		"/Users/czekalsj/Desktop/download_everything.py",
+		"/math.py",
+		"/Users/czekalsj/myproject/mortar2.py",
+		"/Users/czekalsj/Downloads/mre_omniture_aws_reconstitize.py",
+		"/Users/czekalsj/Desktop/Graphing/nx_ex.py",
+		"/Users/czekalsj/audio.py",
+		"/Applications/Install OS X Yosemite.app/Contents/MacOS/InstallAssistant",
+		"/Users/czekalsj/Downloads/mre_omniture_aws_gradiator (1).py",
+		"/Users/czekalsj/Desktop/example.py",
+		"/Users/czekalsj/Downloads/mre_omniture_aws_gradiator.py",
+		"/Users/czekalsj/Desktop/ggplot_ex.py",
+		"/Users/czekalsj/Desktop/SnR.csv",
+		"/Users/czekalsj/Desktop/matploytest.py",
+		"/Users/czekalsj/Desktop/mtv_entities/index.py",
+		"/Users/czekalsj/Desktop/Graphing/polar.py",
+		"/Users/czekalsj/Desktop/Graphing/bookeh.py",
+		"/Users/czekalsj/Desktop/Graphing/networkx_ex.py",
+		"/Users/czekalsj/Desktop/Graphing/venn.py",
+		"/Users/czekalsj/Desktop/plotly.py",
+		"/Users/czekalsj/Desktop/graph_template.py",
+		"/Users/czekalsj/Desktop/simple_plot.py",
+		"/Users/czekalsj/Downloads/mtv_series3.csv",
+		"/Users/czekalsj/Desktop/spaceship.py",
+		"/Users/czekalsj/Desktop/FINAL.py",
+		"/Users/czekalsj/Desktop/Sacred_Heart_University.svg",
+		"/Users/czekalsj/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/czekalsj/Desktop/tuples.py",
+		"/Users/czekalsj/Desktop/random.py",
+		"/Users/czekalsj/Documents/Python/Stopwatch_The_Game.py",
+		"/Users/czekalsj/Desktop/math.py",
+		"/Users/czekalsj/Documents/Python/rock-paper-scissor-lizard-spock.py",
+		"/Users/czekalsj/Documents/Python/guess_the_number.py",
+		"/Users/czekalsj/Desktop/guess the number",
+		"/Users/czekalsj/Desktop/a3.py",
+		"/Users/czekalsj/Desktop/recs.xml",
+		"/Users/czekalsj/Documents/Python/google-python-exercises/basic/mimic.py",
+		"/Users/czekalsj/myproject/mortar1.py",
+		"/Users/czekalsj/Documents/Python/google-python-exercises/basic/list2.py",
+		"/Users/czekalsj/Documents/Python/google-python-exercises/basic/list1.py",
+		"/Users/czekalsj/Documents/Python/google-python-exercises/basic/string1.py",
+		"/Users/czekalsj/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/EF2938A7-88AE-4986-8FB3-04CE0493CBC1/similar.json",
+		"/Users/czekalsj/Downloads/1178	00000008199627255382667726853622352693	b6c067",
+		"/Users/czekalsj/Downloads/ftp_1141_332_iter_1393801751926_admin.sync",
+		"/Users/czekalsj/Desktop/test.py",
+		"/Users/czekalsj/Desktop/median.py",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/czekalsj/myproject/templates/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mgid",
+			"geom_line",
+			"$",
+			"	",
+			"^",
+			"*",
+			"$",
+			"	",
+			"|No",
+			"	",
+			"()\n",
+			"www.",
+			"])\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"|",
+			"|No|",
+			"|",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cachematrix.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
